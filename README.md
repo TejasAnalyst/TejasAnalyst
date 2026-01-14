@@ -25,4 +25,4 @@ I am passionate about turning raw data into meaningful insights using Python and
 ---
 
 ### 📫 Connect with Me
-- [linkedin.com/in/tejas-padole]
+ linkedin.com/in/tejas-padole
