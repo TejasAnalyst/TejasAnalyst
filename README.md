@@ -46,6 +46,3 @@ I am a second-year BCS student passionate about turning data into actionable ins
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejasAnalyst&style=flat-square&color=blue" alt="Profile Views" />
-</p>
