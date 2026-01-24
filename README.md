@@ -34,8 +34,8 @@ I am a second-year BCS student passionate about turning data into actionable ins
 </p>
 
 ### 📫 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/tejas-padole/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tejas Padole" height="40" width="120" />
-</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tejas-padole/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</div>
