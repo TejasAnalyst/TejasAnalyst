@@ -45,3 +45,7 @@ I am a second-year BCS student passionate about turning data into actionable ins
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejasAnalyst&style=flat-square&color=blue" alt="Profile Views" />
+</p>
