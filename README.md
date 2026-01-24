@@ -1,28 +1,36 @@
-# Hi there, I'm Tejas! 👋
+# Hi there, I'm Tejas Padole! 👋
 
-### 👨‍💻 Data Analyst Aspirant | CS Student
-I am passionate about turning raw data into meaningful insights using Python and SQL.
+### 👨‍💻 Data Analyst | Open Source Contributor | Python Developer
+
+I am a second-year BCS student passionate about turning data into actionable insights. Currently contributing to **FOSSASIA** & **Scikit-learn** and preparing for **Google Summer of Code (GSoC) 2026**.
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+<a href="https://github.com/TejasAnalyst">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=tokyonight"/>
+</a>
+</div>
+
+---
+
+### 🔭 Current Focus
+- 🐍 Improving **PSLab-Python** (FOSSASIA)
+- 📈 Analyzing Pizza Sales Data using **SQL & Python**
+- 🧠 Learning Advanced Data Analytics & Bug Bounty
+
+---
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
 </p>
-
----
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=radical" alt="Tejas's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
- linkedin.com/in/tejas-padole
