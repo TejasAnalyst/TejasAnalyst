@@ -22,9 +22,9 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=tokyonight"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=radical" height="180" alt="Tejas's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
 ---
