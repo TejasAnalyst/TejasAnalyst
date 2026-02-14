@@ -21,12 +21,6 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=tokyonight"/>
-</div>
----
 
 ### 🔭 Current Focus
 - 🐍 Improving **PSLab-Python** (FOSSASIA)
