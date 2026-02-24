@@ -6,6 +6,14 @@ I am a second-year BCS student passionate about turning data into actionable ins
 
 ---
 
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tejas's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAnalyst&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
 ### 🎓 Education
 - 🏫 **Bachelor of Computer Science (BCS)** - [Vasantrao Naik Mahavidyalaya, Sambhajinagar]
 - 📅 **2024 - Present**
@@ -19,15 +27,22 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
----
-
-
-### 🔭 Current Focus
-- 🐍 Improving **PSLab-Python** (FOSSASIA)
-- 📈 Analyzing Pizza Sales Data using **SQL & Python**
-- 🧠 Learning Advanced Data Analytics & Bug Bounty
 
 ---
+
+### 🔭 Current Focus & Contributions
+- 🚀 **Scikit-learn (PR #33258)**: Adding cardinality filtering to `make_column_selector`.
+- 🐍 **FOSSASIA (PSLab)**: Improving hardware protocol verification and bug fixes.
+- 📈 **Data Projects**: Analyzing Pizza Sales Data using **SQL & Python**.
+- 🧪 **DevOps Sandbox**: Testing CI/CD workflows in my [test-repo](https://github.com/TejasAnalyst/test-repo).
+
+---
+
+### 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=radical&hide_border=true)
+
+---
+
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
