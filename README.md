@@ -8,8 +8,8 @@ I am a second-year BCS student passionate about turning data into actionable ins
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tejas's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAnalyst&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasAnalyst&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Tejas Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAnalyst&theme=dark&hide_border=true&cache_seconds=1800" alt="Tejas Streak" height="150" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ---
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
