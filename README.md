@@ -39,7 +39,7 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ---
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasAnalyst&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
