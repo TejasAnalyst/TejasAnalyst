@@ -30,7 +30,6 @@ I am a second-year BCS student passionate about turning data into actionable ins
 ---
 
 ### 🔭 Current Focus & Contributions
-- 🚀 **Scikit-learn (PR #33258)**: Adding cardinality filtering to `make_column_selector`.
 - 🐍 **FOSSASIA (PSLab)**: Improving hardware protocol verification and bug fixes.
 - 📈 **Data Projects**: Analyzing Pizza Sales Data using **SQL & Python**.
 - 🧪 **DevOps Sandbox**: Testing CI/CD workflows in my [test-repo](https://github.com/TejasAnalyst/test-repo).
